@@ -4,8 +4,8 @@ This repository is a collection of random facts.
 
 ## Table of Contents
 
+- [How It Works](#howitworks)
 - [Installation](#installation)
-- [How It Works](#HowItWorks)
 - [Usage](#usage)
 - [APIs Used](#apis-used)
 - [Contributing](#contributing)
